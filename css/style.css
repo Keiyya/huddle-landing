@@ -2291,6 +2291,16 @@ html {
   text-align: center;
 }
 
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
 .text-darkCyan {
   --tw-text-opacity: 1;
   color: hsl(192 100% 9% / var(--tw-text-opacity));
@@ -2309,6 +2319,11 @@ html {
 .text-base-content {
   --tw-text-opacity: 1;
   color: hsl(var(--bc) / var(--tw-text-opacity));
+}
+
+.text-slate-50 {
+  --tw-text-opacity: 1;
+  color: rgb(248 250 252 / var(--tw-text-opacity));
 }
 
 body{
